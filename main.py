@@ -5,8 +5,8 @@ import logging
 from data import check_user
 import sys
 
-api_id = 19490732
-api_hash = "0d09e7ef130fba77c4f7a99dbb85b3e1"
+api_id = 000000
+api_hash = "xxx9c9x9cz9jafafdfdf"
 
 
 client = Client(name="account_data", api_id=api_id, api_hash=api_hash)
